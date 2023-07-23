@@ -10,7 +10,7 @@ import { TiMicrophone } from "react-icons/ti";
 import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center px-14 h-[56px] bg-[#212121] opacity-95 sticky top-0 z-50 ">
+    <div className="flex justify-between items-center px-5 h-[56px] bg-[#212121] opacity-95 sticky top-0 z-50 ">
       <div className="flex gap-8 items-center text-2xl">
         <div className="">
           <AiOutlineMenu />
